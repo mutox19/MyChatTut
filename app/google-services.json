@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "489822156672",
+    "firebase_url": "https://mychattut.firebaseio.com",
+    "project_id": "mychattut",
+    "storage_bucket": "mychattut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489822156672:android:963241ebd1acc4a0",
+        "android_client_info": {
+          "package_name": "com.example.danilo.mychattut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489822156672-n1dbgr5c4hmp8tnkutug09ftmp0bsp6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.danilo.mychattut",
+            "certificate_hash": "e2a4f175eba37e07fd1171137140182e38f35c07"
+          }
+        },
+        {
+          "client_id": "489822156672-4hvg6n4lcj633a2phf5tafjbnnfgdb5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCczrQuylmWi-iU1n4UWlLdxRm1HMW74hQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489822156672-4hvg6n4lcj633a2phf5tafjbnnfgdb5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
